@@ -10,6 +10,4 @@
 
 ![Discord Info](https://discord.c99.nl/widget/theme-3/238809504374980618.png) &nbsp;
 
-![Jason54 GitHub stats](https://github-readme-stats.vercel.app/api?username=jason54jg&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason54jg&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact) &nbsp;
-![](https://wakatime.com/share/@3f273fe2-115a-4b07-8bd5-8453c985ec35/53bdeb50-3901-4150-a262-167771252f69.svg)
+![](https://wakatime.com/share/@3f273fe2-115a-4b07-8bd5-8453c985ec35/27ec1ca0-2f0b-408c-8f39-055532ff3bd4.svg)
