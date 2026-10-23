@@ -25,9 +25,9 @@ Développeur **JavaScript**, **TypeScript** & **Java** — sites vitrines pour r
 
 | Projet | Description | Lien |
 | --- | --- | --- |
-| **Opale** | Vitrine bilingue FR/EN — kebab & fast-food à Neufchâteau | [repo](https://github.com/Jason54jg/Opale) |
-| **La Toscane** | Pizzeria — menu interactif, configurateur de prix, panier | [repo](https://github.com/Jason54jg/La-toscane) |
-| **Snack Medya** | Snack & kebab — carte officielle + configurateur temps réel | [repo](https://github.com/Jason54jg/snack-medya) |
+| **Opale** | Vitrine bilingue FR/EN — kebab & fast-food à Neufchâteau | [site](https://jason54jg.github.io/Opale/) · [repo](https://github.com/Jason54jg/Opale) |
+| **La Toscane** | Pizzeria — menu interactif, configurateur de prix, panier | [site](https://jason54jg.github.io/La-toscane/) · [repo](https://github.com/Jason54jg/La-toscane) |
+| **Snack Medya** | Snack & kebab — carte officielle + configurateur temps réel | [site](https://jason54jg.github.io/snack-medya/) · [repo](https://github.com/Jason54jg/snack-medya) |
 | **Capo Pizza** | Pizzeria & restauration rapide — menu, SEO local | [site](https://jason54jg.github.io/CapoPizza/) · [repo](https://github.com/Jason54jg/CapoPizza) |
 
 #### Minecraft
